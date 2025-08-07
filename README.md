@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Eu sou a Laura Lopes! 👋
+## Olá, eu sou a Laura Lopes! 👋
 
 🎓 Estudante de Ciência da Computação  
 💻 Aspirante a Desenvolvedora Full Stack    
