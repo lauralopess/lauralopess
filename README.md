@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Olá, eu sou a Laura Lopes! 👋
 
 🎓 Estudante de Ciência da Computação  
@@ -39,4 +38,3 @@ Apaixonada por tecnologia, desenvolvimento web e por criar soluções que facili
 ---
 
 ⭐ Obrigada por visitar meu perfil!
--->
