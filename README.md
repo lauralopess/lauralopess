@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Olá, eu sou a Laura Lopes! 👋
+## Eu sou a Laura Lopes! 👋
 
 🎓 Estudante de Ciência da Computação  
 💻 Aspirante a Desenvolvedora Full Stack    
@@ -21,13 +21,14 @@ lauralopess.github.io/profile
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 ---
 
 ### 📫 Contato
 
 - Email: lauralopessts@gmail.com  
-- LinkedIn: linkedin.com/in/lauralopessantos
+- LinkedIn: https://linkedin.com/in/lauralopessantos
 
 ---
 
